@@ -2,6 +2,7 @@ The following repostory contains the following project.
 They are written in html and css.
 
 
+
 ![image](https://github.com/MachariaEmilio/developer/assets/132134982/f42745e2-a101-472d-88e2-1972e5165d68)
 
 ![image](https://github.com/MachariaEmilio/developer/assets/132134982/bb1bf9d3-da99-4f23-a61b-8d478f72c70b)
